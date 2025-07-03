@@ -3,7 +3,7 @@
 <h2>Ryan Silva 💫</h2>
 
 
-Sou de Mogi das Cruzes, São Paulo e estou cursando Análise e Desenvolvimento de sistemas na Fatec. Por característica, sempre fui instigado pela aprendizagem e apaixonado por novas experiências. Conhecendo a programação, vi a oportunidade de elevar as minhas singularidades ao máximo em uma profissão que demanda desenvolvimento pessoal e a conquista de conhecimento. Brinco de artísta nas horas vagas e amo um cafézin
+Sou de Mogi das Cruzes, São Paulo e estou cursando Análise e Desenvolvimento de sistemas na Fatec. Por característica, sempre fui instigado pela aprendizagem e apaixonado por novas experiências. Conhecendo a programação, vi a oportunidade de elevar as minhas singularidades ao máximo em uma profissão que demanda desenvolvimento pessoal e a conquista de conhecimento. Brinco de artísta nas horas vagas e amo um cafézin.
 
 <!-- 👨🏻‍🚀 👾☄️🌌🌘💫💻 -->
 ### Tecnologias do meu dia a dia💻
@@ -13,9 +13,10 @@ Sou de Mogi das Cruzes, São Paulo e estou cursando Análise e Desenvolvimento d
 ### Estatísticas 📊
 ---
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanss27&show_icons=true&theme=holi)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanss27&layout=compact&theme=holi&width=700)
 
 ### Que tal bater um papo e tomar um café comigo? ☕
----
+<hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-souza-silva) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.souzasilvap1@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryanss_arts/) 
