@@ -1,7 +1,6 @@
 <h1 align="center">Opa, como vai?!</h1>
  
 <h2>Ryan Silva 💫</h2>
-<hr>
 
 Sou de Mogi das Cruzes, São Paulo e estou cursando Análise e Desenvolvimento de sistemas na Fatec. Por característica, sempre fui instigado pela aprendizagem e apaixonado por novas experiências. Conhecendo a programação, vi a oportunidade de elevar as minhas singularidades ao máximo em uma profissão que demanda desenvolvimento pessoal e a conquista de conhecimento. Brinco de artísta nas horas vagas e amo um cafézin.
 
