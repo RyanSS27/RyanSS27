@@ -16,8 +16,6 @@ Sou de Mogi das Cruzes, São Paulo e estou cursando Análise e Desenvolvimento d
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanss27&layout=compact&theme=holi&width=700)
 
 ## Que tal bater um papo e tomar um café comigo? ☕
-
-
 <br><p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-souza-silva) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.souzasilvap1@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryanss_arts/) 
 </p>
