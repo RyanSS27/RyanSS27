@@ -13,7 +13,7 @@ Sou de Mogi das Cruzes, São Paulo e estou cursando Análise e Desenvolvimento d
 
 ## Estatísticas 📊
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanss27&show_icons=true&theme=dark)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanss27&show_icons=true&theme=holi)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanss27&layout=compact&theme=holi&width=700)
 <br>
