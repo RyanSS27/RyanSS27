@@ -13,10 +13,20 @@ Sou de Mogi das Cruzes, São Paulo e estou cursando Análise e Desenvolvimento d
 
 ## Estatísticas 📊
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanss27&show_icons=true&theme=holi)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanss27&bg_color=00000000&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanss27&layout=compact&theme=holi&width=700)
-<br>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryanss27&layout=compact&hide_border=true&bg_color=00000000&title_color=61dafb&text_color=ffffff&icon_color=61dafb" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanss27&hide_border=true&background=00000000&stroke=61dafb&fire=61dafb&ring=61dafb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=61dafb&sideLabels=61dafb&dates=abb2bf" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## Que tal bater um papo e tomar um café comigo? ☕
 <br><p align="center">
