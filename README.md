@@ -25,7 +25,6 @@
 - Investigar bugs com SQL e documentá-los com clareza, experiência que trago do suporte em uma fintech
 - Uso consciente de **IA para produtividade** 
 
----
 
 ## Tecnologias 💻
 
@@ -40,23 +39,24 @@
 
 **Frontend**<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ---
+
 
 ## Projetos 📌
 
-### 📈 [CarteiraInvestimentosAPI](https://github.com/RyanSS27/CarteiraInvestimentosAPI)
+### [CarteiraInvestimentosAPI](https://github.com/RyanSS27/CarteiraInvestimentosAPI)
 Gestão de carteiras de ações da B3: compras, vendas, histórico e rentabilidade consolidada com cotações em tempo real.<br>
 `.NET 10` · `MongoDB` · `Brapi` · `Docker` · `Arquitetura Hexagonal`
 
-### 📅 [AgendamentosAPI](https://github.com/RyanSS27/AgendamentosAPI)
+### [AgendamentosAPI](https://github.com/RyanSS27/AgendamentosAPI)
 API de agendamentos com domínio genérico, sincronizada com o Google Calendar. *Em desenvolvimento.*<br>
 `.NET 10` · `PostgreSQL` · `EF Core` · `Google Calendar API`
 
-### 🐠 [Gestão de Estoque Petshop](https://github.com/RyanSS27/gestao-estoque-petshop)
+### [Gestão de Estoque Petshop](https://github.com/RyanSS27/gestao-estoque-petshop)
 Sistema para um petshop de aquarismo real, desenvolvido em equipe como projeto de extensão. *Em desenvolvimento.*<br>
 `Java 17` · `Spring Boot` · `PostgreSQL`
 
----
 
 ## Experiência 💼
 
@@ -64,7 +64,6 @@ Sistema para um petshop de aquarismo real, desenvolvido em equipe como projeto d
 
 Atendimento técnico de alto volume em uma fintech, contato direto com cliente e reprodução de bugs junto às equipes de engenharia e investigação de causa-raiz com consultas em PostgreSQL.
 
----
 
 ## Estatísticas 📊
 
@@ -73,5 +72,6 @@ Atendimento técnico de alto volume em uma fintech, contato direto com cliente e
 ---
 
 ## Bora trocar ideia? ☕
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-souza-silva) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.souzasilvap1@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryanss_arts/)
